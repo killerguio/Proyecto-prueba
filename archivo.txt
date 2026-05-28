@@ -11,5 +11,5 @@ numeros
 10
 Sebas 
 guio
-rodriga
+rodrigo
 marlon
